@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\school\\tafe\\1-monday-mobile\\session-1-intro-mobile-apps\\statistics exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56961755-F904-4D32-9F61-2B3AA02C690C}|statistics exercise.csproj|d:\\school\\tafe\\1-monday-mobile\\session-1-intro-mobile-apps\\statistics exercise\\numbercruncher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56961755-F904-4D32-9F61-2B3AA02C690C}|statistics exercise.csproj|solutionrelative:numbercruncher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56961755-F904-4D32-9F61-2B3AA02C690C}|statistics exercise.csproj|d:\\school\\tafe\\1-monday-mobile\\session-1-intro-mobile-apps\\statistics exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56961755-F904-4D32-9F61-2B3AA02C690C}|statistics exercise.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NumberCruncher.cs",
+              "DocumentMoniker": "D:\\school\\tafe\\1-monday-mobile\\session-1-intro-mobile-apps\\statistics exercise\\NumberCruncher.cs",
+              "RelativeDocumentMoniker": "NumberCruncher.cs",
+              "ToolTip": "D:\\school\\tafe\\1-monday-mobile\\session-1-intro-mobile-apps\\statistics exercise\\NumberCruncher.cs",
+              "RelativeToolTip": "NumberCruncher.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T12:17:37.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\school\\tafe\\1-monday-mobile\\session-1-intro-mobile-apps\\statistics exercise\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\school\\tafe\\1-monday-mobile\\session-1-intro-mobile-apps\\statistics exercise\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T12:13:21.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\school\tafe\1-monday-mobile\session-1-intro-mobile-apps\statistics exercise\bin\Debug\net8.0\statistics exercise.exe
+D:\school\tafe\1-monday-mobile\session-1-intro-mobile-apps\statistics exercise\bin\Debug\net8.0\statistics exercise.deps.json
+D:\school\tafe\1-monday-mobile\session-1-intro-mobile-apps\statistics exercise\bin\Debug\net8.0\statistics exercise.runtimeconfig.json
+D:\school\tafe\1-monday-mobile\session-1-intro-mobile-apps\statistics exercise\bin\Debug\net8.0\statistics exercise.dll
+D:\school\tafe\1-monday-mobile\session-1-intro-mobile-apps\statistics exercise\bin\Debug\net8.0\statistics exercise.pdb
+D:\school\tafe\1-monday-mobile\session-1-intro-mobile-apps\statistics exercise\obj\Debug\net8.0\statistics exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\tafe\1-monday-mobile\session-1-intro-mobile-apps\statistics exercise\obj\Debug\net8.0\statistics exercise.AssemblyInfoInputs.cache
+D:\school\tafe\1-monday-mobile\session-1-intro-mobile-apps\statistics exercise\obj\Debug\net8.0\statistics exercise.AssemblyInfo.cs
+D:\school\tafe\1-monday-mobile\session-1-intro-mobile-apps\statistics exercise\obj\Debug\net8.0\statistics exercise.csproj.CoreCompileInputs.cache
+D:\school\tafe\1-monday-mobile\session-1-intro-mobile-apps\statistics exercise\obj\Debug\net8.0\statistics exercise.dll
+D:\school\tafe\1-monday-mobile\session-1-intro-mobile-apps\statistics exercise\obj\Debug\net8.0\refint\statistics exercise.dll
+D:\school\tafe\1-monday-mobile\session-1-intro-mobile-apps\statistics exercise\obj\Debug\net8.0\statistics exercise.pdb
+D:\school\tafe\1-monday-mobile\session-1-intro-mobile-apps\statistics exercise\obj\Debug\net8.0\statistics exercise.genruntimeconfig.cache
+D:\school\tafe\1-monday-mobile\session-1-intro-mobile-apps\statistics exercise\obj\Debug\net8.0\ref\statistics exercise.dll
